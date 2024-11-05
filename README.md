@@ -1,5 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2891954521&show_icons=true&theme=dark&locale=cn&layout=compact)  
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=2891954521&show_icons=true&theme=dark&locale=cn&layout=compact)
+
+[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=GreenDog&langs_count=8&layout=compact&hide=Other,Binary,JSON,Markdown)](https://wakatime.com/@GreenDog)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%209%20mins-blue)
@@ -85,4 +85,3 @@ Kotlin                   1 repo              ██░░░░░░░░░�
  Last Updated on 05/11/2024 15:06:30 UTC
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=GreenDog&langs_count=8&layout=compact&hide=Other,Binary,JSON,Markdown)](https://wakatime.com/@GreenDog)
